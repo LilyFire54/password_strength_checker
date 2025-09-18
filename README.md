@@ -22,4 +22,9 @@ The script scores passwords from **0–100** and labels them as **Weak, Fair, Go
 
 ### Run with a single password:
 ```bash
+
 python password_strength_checker.py "MyS3cret!"
+## ⚠️ Disclaimer
+This project is for **educational and demonstration purposes only**.  
+It should not be relied on as a sole method for evaluating password security in real-world applications.  
+For production use, always follow industry best practices such as NIST guidelines and use established libraries or password managers.

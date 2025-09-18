@@ -14,7 +14,7 @@ The script scores passwords from **0–100** and labels them as **Weak, Fair, Go
 ---
 
 ## 📸 Example Output
-![screenshot](screenshot.png)  
+![Password Checker in Action](./Screenshot 2025-09-18 134751.png)  
 *Example: evaluating a password in VS Code terminal.*
 
 ---
